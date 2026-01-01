@@ -774,7 +774,7 @@ First hands-on experience using Wireshark for incident investigation. Analyzed P
 
 ---
 
-### Key Learning Outcomes
+### Skills Developed
 
 **Tool Proficiency:**
 - Wireshark interface navigation
