@@ -282,7 +282,7 @@ A potential phishing email was detected in the organization's email system, cont
 **Email Metadata:**
 ```
 From: Def Communications <76tguyhh6tgftrt7tg.su> <114.114.114.114>
-Sent: Wednesday, July 20, 2022 09:30:14 AM
+Sent: Wednesday, July 20, 2025 09:30:14 AM
 To: hr@inergy.com <176.157.125.93>
 Subject: Re: Infrastructure Egnieer role
 Attachment: bfsvc.exe
@@ -1436,7 +1436,7 @@ grep "username123" */secure.log | sort -k1
 ```
 [2025-07-20 09:40] admin accessed customer_database
 [2025-07-20 09:42] admin exported customer_records.csv
-[2025-07-20 09:43] admin downloaded sales_report_2022.pdf
+[2025-07-20 09:43] admin downloaded sales_report_2025.pdf
 ```
 
 **Step 4: Exfiltration (www1)**
