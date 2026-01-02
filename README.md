@@ -1628,10 +1628,8 @@ This log analysis capability provides foundation for threat hunting, incident in
 This portfolio showcases readiness for Security Operations Center (SOC) analyst roles, incident response positions, and security investigation functions. The projects demonstrate both technical execution capabilities and strategic thinking required for effective cybersecurity operations.
 
 ---
-
 ## 🔗 Navigation
-[⬅️ Back to Portfolio Home](https://github.com/TheCyberLeader) | [📧 Contact](mailto:m@riegrc.com) | [💼 LinkedIn](https://linkedin.com/in/mariezw)
+
+[⬅️ Back to Portfolio Home](https://github.com/TheCyberLeader) | [📂 View All Projects](https://github.com/TheCyberLeader/hands-on-cyber-leadership) | [📧 Contact](mailto:m@riegrc.com) | [💼 LinkedIn](https://linkedin.com/in/mariezw)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=TheCyberLeader-detection-response&icon=0&color=0)](https://visitcount.itsvg.in)
